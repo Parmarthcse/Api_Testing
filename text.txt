@@ -1,0 +1,15 @@
+creating a server
+
+REST API -> JSON
+
+GET/USER - LIST ALL USERS HTML Document render
+GET/api/user
+GET/USERS/2 - GET THE USER ID 2
+GET/api/user2
+Dynamic path parameters
+app.get("/api/users/:id", (res, res) => {});
+so that if it has no api/ it render an HTML
+POST/USERS = CREATE NEW USER
+PATCH/USERS/1 - EDIT THE USER WITH ID
+
+DELETE/USERS/1 - WITH THE USER ID

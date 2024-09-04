@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Brian Stephens",
+        "age": 23,
+        "gender": "Non-binary",
+        "email": "qcole@wilson-clark.info",
+        "job_title": "Audiological scientist"
+    },
+    {
+        "id": 2,
+        "name": "Tonya King",
+        "age": 22,
+        "gender": "Non-binary",
+        "email": "snydersteven@smith-walton.com",
+        "job_title": "Ship broker"
+    },
+    {
+        "id": 3,
+        "name": "Jennifer Ramsey",
+        "age": 36,
+        "gender": "Male",
+        "email": "amyyoung@peck-johnson.info",
+        "job_title": "Charity fundraiser"
+    },
+    {
+        "id": 4,
+        "name": "Colleen Ellis",
+        "age": 21,
+        "gender": "Non-binary",
+        "email": "vegasusan@phillips.info",
+        "job_title": "Database administrator"
+    },
+    {
+        "id": 5,
+        "name": "Lauren Hogan",
+        "age": 22,
+        "gender": "Female",
+        "email": "georgebrittany@yahoo.com",
+        "job_title": "Textile designer"
+    },
+    {
+        "id": 6,
+        "name": "Dustin Ruiz",
+        "age": 23,
+        "gender": "Female",
+        "email": "rbryant@gonzalez.com",
+        "job_title": "Ecologist"
+    },
+    {
+        "id": 7,
+        "name": "Ashley Anderson",
+        "age": 34,
+        "gender": "Female",
+        "email": "psoto@yahoo.com",
+        "job_title": "Chartered management accountant"
+    },
+    {
+        "id": 8,
+        "name": "James Malone",
+        "age": 50,
+        "gender": "Male",
+        "email": "brownmartha@edwards.com",
+        "job_title": "Marketing executive"
+    },
+    {
+        "id": 9,
+        "name": "Emily Williams",
+        "age": 57,
+        "gender": "Female",
+        "email": "brittany98@wong.com",
+        "job_title": "Psychologist, educational"
+    },
+    {
+        "id": 10,
+        "name": "Jennifer Anthony",
+        "age": 48,
+        "gender": "Female",
+        "email": "csloan@gmail.com",
+        "job_title": "Scientist, marine"
+    }
+]
